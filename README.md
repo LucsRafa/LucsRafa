@@ -22,6 +22,5 @@ Durante minha jornada de aprendizado, tenho trabalhado em diversos projetos pess
 ## Contato
 - Email: lucasrafael66878@gmail.com
 - LinkedIn: [linkedin.com/in/lucasrafaelladislau](www.linkedin.com/in/lucas-ladislau-730750240)
-- GitHub: [github.com/lucasrafaelladislau](https://github.com/LucsRafa)
 
 Sinta-se à vontade para entrar em contato comigo se você estiver interessado em colaborar em projetos, trocar conhecimentos ou apenas bater um papo sobre tecnologia e desenvolvimento. Mal posso esperar para continuar crescendo e aprendendo neste empolgante campo da tecnologia da informação!

@@ -1,26 +1,30 @@
-# Lucas Rafael de Oliveira Ladislau
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=150&section=header"/>
 
-## Sobre Mim
-Olá! Meu nome é Lucas Rafael de Oliveira Ladislau, tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sistemas na Fatec Rubens Lara, localizada em Santos, São Paulo. Desde cedo, tenho sido apaixonado pelo mundo da tecnologia e do desenvolvimento de software. Estou constantemente buscando aprimorar minhas habilidades e conhecimentos, tanto no desenvolvimento front-end quanto no back-end.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f8ff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Lucas+Ladislau;eu+tenho+19+anos+de+idade;Eu+sou+do+Brasil;Eu+estudo+Análise+e+desenvolvimento+de+Sistemas;Bem+Vindos!)](https://git.io/typing-svg)
 
-## Formação Acadêmica
-- Estudante de Análise e Desenvolvimento de Sistemas na Fatec Rubens Lara, Santos, SP.
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LucsRafa&bg_color=000000&color=ffffff&line=a3a3a3&point=900909&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## Habilidades
-- HTML
-- CSS
-- Java
+<div align="center"> 
+<a href = "lucasrafael66878@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="www.linkedin.com/in/lucas-ladislau-730750240" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
 
-## Objetivos
-Meu objetivo é me tornar um desenvolvedor de software altamente competente e capaz de criar soluções impactantes. Atualmente, estou focado em fortalecer minhas habilidades de programação, aprender novas tecnologias e explorar as áreas de front-end e back-end para desenvolvimento web.
+  ### Main skills:
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![JAVA](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=DAA520)&nbsp;
 
-## Projetos
-Durante minha jornada de aprendizado, tenho trabalhado em diversos projetos pessoais para aplicar e solidificar o conhecimento que adquiri. Alguns dos meus projetos incluem:
-- Site pessoal utilizando HTML e CSS para mostrar minhas habilidades e experiências.
-- Aplicativo de lista de tarefas em Java para praticar programação orientada a objetos.
+### Studying in this moment:
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![javascrpt](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![JAVA](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=DAA520)&nbsp;
 
-## Contato
-- Email: lucasrafael66878@gmail.com
-- LinkedIn: [linkedin.com/in/lucasrafaelladislau](www.linkedin.com/in/lucas-ladislau-730750240)
 
-Sinta-se à vontade para entrar em contato comigo se você estiver interessado em colaborar em projetos, trocar conhecimentos ou apenas bater um papo sobre tecnologia e desenvolvimento. Mal posso esperar para continuar crescendo e aprendendo neste empolgante campo da tecnologia da informação!
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{LucsRafa}/count.svg" /></p> 
+<br>
+</div>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=150&section=footer"/>

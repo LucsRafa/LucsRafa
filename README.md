@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=150&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f8ff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Lucas+Ladislau;I+am+20+years+old;I+am+from+Brazil;I+formed+Analysis+and+Systems+Development;Welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f8ff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Lucas+Ladislau;I+am+21+years+old;I+am+from+Brazil;I+formed+Analysis+and+Systems+Development;Welcome!)](https://git.io/typing-svg)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LucsRafa&bg_color=000000&color=ffffff&line=a3a3a3&point=900909&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -13,7 +13,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![JAVA](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=DAA520)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=openjdk&logoColor=DAA520)&nbsp;
+![PHP](https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=openphp&logoColor=DAA520)&nbsp;
 
 ### Studying in this moment:
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;

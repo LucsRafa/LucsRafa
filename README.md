@@ -14,6 +14,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![JAVA](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=DAA520)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=DAA520)&nbsp;
+![Laravel](https://img.shields.io/badge/laravel-0d1117?style=for-the-badge&logo=laravel&logoColor=DAA520)&nbsp;
 
 ### Studying in this moment:
 ![LARAVEL](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&labelColor=0D1117)&nbsp;
